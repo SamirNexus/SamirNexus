@@ -1,28 +1,31 @@
-# 👋 Hi, I'm Mohamed Samir  
+# 👋 Hi, I'm Mohamed Samir
 
-## 🚀 Software Engineer | Web Developer – Angular & Frontend Focus  
-
----
-
-## 👨‍💻 About Me
-I’m a dedicated software engineer with a strong foundation in **frontend development** and a growing interest in **full-stack systems**.  
-I specialize in building **responsive, user-focused web applications** using modern frameworks.  
-My goal is always to deliver **clean design, maintainable code, and real-world functionality**.  
+🚀 Software Engineer with **2+ years of experience** in **C++, Web Development (Angular & TypeScript), and Algorithmic Problem Solving**.  
+💡 Skilled in building **responsive, user-focused web applications**, designing intuitive **UI/UX experiences**, and developing projects on **WordPress**.  
+🌟 Known for **problem-solving mindset, adaptability, teamwork, and continuous learning**, combining technical expertise with strong communication and collaboration skills.
 
 ---
 
-## 🛠️ Tech Stack / Skills
+## 📊 GitHub Stats  
+![Mohamed Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Samir15298&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Samir15298&layout=compact&theme=radical)  
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive-Design-blue?style=for-the-badge)
+---
+
+## 🏆 GitHub Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=Mohamed-Samir15298&theme=radical&column=7)  
+
+---
+
+## 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Samir15298&theme=radical)  
+
+---
+
+## 🛠️ Skills
+- **Frontend:** Angular, HTML5, CSS3, Bootstrap, JavaScript (ES6+), jQuery  
+- **Frameworks & Tools:** Angular CLI, TypeScript, REST APIs, Local Storage  
+- **Workflow:** Git, GitHub, VS Code, Responsive Design  
 
 ---
 
@@ -50,16 +53,10 @@ Explore more repositories here 👉 [GitHub Repositories](https://github.com/Sam
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirNexus&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirNexus&layout=compact&theme=tokyonight)  
+## 🌍 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [Email](mailto:yourmail@example.com)  
 
 ---
 
-## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-samir-040379228)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msamra990@gmail.com)  
-
----
-
-⭐ Always open to collaborations, learning, and opportunities in **top tech companies**.
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*
