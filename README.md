@@ -12,10 +12,7 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=SamirNexus&theme=radical&column=7)  
 
----
 
 ## 🔥 Streak Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamirNexus&theme=radical)  
