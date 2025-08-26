@@ -51,7 +51,7 @@ Explore more repositories here 👉 [GitHub Repositories](https://github.com/Sam
 ---
 
 ## 🌍 Connect with Me
-- [LinkedIn](www.linkedin.com/in/SamirNexus98)  
+- [LinkedIn](www.linkedin.com/in/samirnexus98)  
 - [Email](mailto:msamra990@gmail.com)  
 
 ---
