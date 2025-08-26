@@ -59,7 +59,6 @@ Explore more repositories here 👉 [GitHub Repositories](https://github.com/Sam
 
 ## 🌍 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Portfolio/Website](https://your-website.com)  
 - [Email](mailto:yourmail@example.com)  
 
 ---
