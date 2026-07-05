@@ -1,59 +1,181 @@
- # 👋 Hi, I'm Mohamed Samir
+<div align="center">
 
-🚀 Software Engineer with **2+ years of experience** in **C++, Web Development (Angular & TypeScript), and Algorithmic Problem Solving**.  
-💡 Skilled in building **responsive, user-focused web applications**, designing intuitive **UI/UX experiences**, and developing projects on **WordPress**.  
-🌟 Known for **problem-solving mindset, adaptability, teamwork, and continuous learning**, combining technical expertise with strong communication and collaboration skills.
+# Hi, I'm Mohamed Samir 👋
 
----
+### Software Engineer | Angular Developer | C++ Programmer
 
-## 📊 GitHub Stats  
-![SamirNexus's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamirNexus&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirNexus&layout=compact&theme=radical)  
+Building responsive web applications, solving complex problems, and continuously learning modern software engineering.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samirnexus98/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msamra990@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-success?style=for-the-badge)]()
 
-## 🛠️ Skills
-
-### 💻 Programming & Frameworks
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
-**React:** Beginner level, currently learning
-
-### 🎨 UI/UX
-![UI/UX](https://img.shields.io/badge/-UI%2FUX-FF4088?logo=figma&logoColor=white&style=flat)  
-Wireframing, Prototyping, User-Centered Design
-
-### 🌐 CMS & Platforms
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
-
-### ⚙️ Tools & Others
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
-Problem Solving, Responsive Design, Data Structures & Algorithms, Collaboration & Teamwork
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 💫 About Me
 
-- 🔹 **[Market](https://github.com/SamirNexus/Market)** – Angular-based e-commerce platform featuring **PLP, PDP, and dynamic Cart Overlay**.  
-- 🎬 **[Movie](https://github.com/SamirNexus/Movie)** – Angular app to explore movies → search, browse, view details, cast & recommendations.  
-- 💼 **[JobRuit](https://github.com/SamirNexus/JobRuit)** – Recruitment system for companies & job seekers → **profiles, postings, CV builder, admin tools**.  
-- 🔑 **[Smart Login](https://github.com/SamirNexus/Smart-Login)** – Smart login system using **HTML5, CSS3, Bootstrap, and ES6 with Local Storage**.  
-- 🍲 **[Yummy](https://github.com/SamirNexus/Yummy)** – Recipe web app to browse meals by **area, category, or ingredient**, with search & contact features.  
+I'm a Software Engineer with **2+ years of learning and hands-on project experience** in **C++, Angular, TypeScript, and modern web development**.
 
----
+I enjoy transforming ideas into scalable, user-friendly applications while writing clean, maintainable code.
 
-## 📂 Other Projects
-Explore more repositories here 👉 [GitHub Repositories](https://github.com/SamirNexus?tab=repositories)  
+Currently focusing on:
 
----
-
-## 🌍 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/samirnexus98/)  
-- [Email](mailto:msamra990@gmail.com)  
+- 🚀 Angular Ecosystem
+- 💻 C++
+- 🧠 Data Structures & Algorithms
+- 🎯 Problem Solving
+- ⚡ Software Engineering Best Practices
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*
+# 🚀 Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### UI / UX
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+- Wireframing
+- Prototyping
+- User-Centered Design
+
+### CMS
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Currently Learning
+
+- React
+- Advanced Software Engineering
+- System Design
+
+---
+
+# 📌 Featured Projects
+
+### 🛒 Market
+Angular e-commerce application featuring Product Listing, Product Details, Shopping Cart, Authentication, and responsive UI.
+
+🔗 https://github.com/SamirNexus/Market
+
+---
+
+### 💼 JobRuit
+
+Full recruitment platform connecting companies with job seekers.
+
+Features include:
+
+- Authentication
+- Company Dashboard
+- Job Posting
+- CV Builder
+- User Profiles
+- Admin Panel
+
+🔗 https://github.com/SamirNexus/JobRuit
+
+---
+
+### 🎬 Movie
+
+Movie discovery application built with Angular.
+
+Features:
+
+- Search Movies
+- Categories
+- Recommendations
+- Cast Details
+- Responsive Design
+
+🔗 https://github.com/SamirNexus/Movie
+
+---
+
+### 🔐 Smart Login
+
+Authentication system built using:
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript (ES6)
+- Local Storage
+
+🔗 https://github.com/SamirNexus/Smart-Login
+
+---
+
+### 🍽️ Yummy
+
+Recipe explorer application.
+
+Browse meals by:
+
+- Category
+- Area
+- Ingredients
+
+Includes Search and Contact modules.
+
+🔗 https://github.com/SamirNexus/Yummy
+
+---
+
+# 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=SamirNexus&theme=radical&show_icons=true&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirNexus&layout=compact&theme=radical&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=SamirNexus&theme=radical&hide_border=true)
+
+---
+
+# 📈 What I'm Working On
+
+- Building Angular Applications
+- Strengthening Data Structures & Algorithms
+- Learning React
+- Improving Software Architecture knowledge
+- Solving programming challenges
+
+---
+
+# 🤝 Connect with Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/samirnexus98/
+
+📧 Email
+
+msamra990@gmail.com
+
+📂 GitHub
+
+https://github.com/SamirNexus
+
+---
+
+> *"First, solve the problem. Then, write the code."* – John Johnson
