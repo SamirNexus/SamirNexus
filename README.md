@@ -1,4 +1,4 @@
-ظبط ده الاول # 👋 Hi, I'm Mohamed Samir
+ # 👋 Hi, I'm Mohamed Samir
 
 🚀 Software Engineer with **2+ years of experience** in **C++, Web Development (Angular & TypeScript), and Algorithmic Problem Solving**.  
 💡 Skilled in building **responsive, user-focused web applications**, designing intuitive **UI/UX experiences**, and developing projects on **WordPress**.  
