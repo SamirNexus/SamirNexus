@@ -1,14 +1,27 @@
 <div align="center">
 
-# Hi, I'm Mohamed Samir 👋
+# 👋 Hi, I'm Mohamed Samir
 
 ### Software Engineer | Angular Developer | C++ Programmer
 
-Building responsive web applications, solving complex problems, and continuously learning modern software engineering.
+Building scalable, responsive, and user-focused web applications with a passion for clean code, problem solving, and continuous learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samirnexus98/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msamra990@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-success?style=for-the-badge)]()
+<p>
+<a href="https://www.linkedin.com/in/samirnexus98/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:msamra990@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SamirNexus">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=SamirNexus&style=for-the-badge)
 
 </div>
 
@@ -16,166 +29,273 @@ Building responsive web applications, solving complex problems, and continuously
 
 # 💫 About Me
 
-I'm a Software Engineer with **2+ years of learning and hands-on project experience** in **C++, Angular, TypeScript, and modern web development**.
+I'm a **Software Engineer** with over **2 years of hands-on experience** in software development, specializing in **Angular**, **TypeScript**, and **C++**.
 
-I enjoy transforming ideas into scalable, user-friendly applications while writing clean, maintainable code.
+I enjoy transforming ideas into scalable, maintainable, and user-friendly applications while continuously improving my software engineering skills.
 
-Currently focusing on:
+### 🚀 Currently Focusing On
 
-- 🚀 Angular Ecosystem
-- 💻 C++
-- 🧠 Data Structures & Algorithms
-- 🎯 Problem Solving
-- ⚡ Software Engineering Best Practices
+- Building production-ready Angular applications
+- Modern C++ development
+- Data Structures & Algorithms
+- Software Engineering Best Practices
+- System Design
+- Clean Architecture
+- Performance Optimization
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+## 💻 Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js"/>
 
-### UI / UX
+<img src="https://skillicons.dev/icons?i=ts"/>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</p>
+
+## 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=angular"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
+
+## 🎨 UI / UX
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+</p>
 
 - Wireframing
 - Prototyping
 - User-Centered Design
 
-### CMS
+## 🌍 CMS
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<p>
 
-### Tools
+<img src="https://skillicons.dev/icons?i=wordpress"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</p>
 
-### Currently Learning
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=npm"/>
+
+<img src="https://skillicons.dev/icons?i=vercel"/>
+
+</p>
+
+## 📚 Currently Learning
 
 - React
-- Advanced Software Engineering
+- Advanced TypeScript
+- Design Patterns
 - System Design
+- Software Architecture
 
 ---
 
-# 📌 Featured Projects
+# 🌟 Featured Projects
 
-### 🛒 Market
-Angular e-commerce application featuring Product Listing, Product Details, Shopping Cart, Authentication, and responsive UI.
+## 🛒 Market
 
-🔗 https://github.com/SamirNexus/Market
+A modern **Angular e-commerce platform** with authentication, shopping cart, product management, responsive UI, and clean architecture.
+
+**Tech Stack**
+
+`Angular` `TypeScript` `Bootstrap` `HTML5` `CSS3`
+
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SamirNexus/Market)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://market-745t9khic-samirnexus-projects.vercel.app)
 
 ---
 
-### 💼 JobRuit
+## 🛠 Market Admin
 
-Full recruitment platform connecting companies with job seekers.
+Administrative dashboard for managing products and the e-commerce platform.
 
-Features include:
+**Tech Stack**
+
+`Angular` `TypeScript` `Bootstrap`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://market-admin-b13cxt6sm-samirnexus-projects.vercel.app)
+
+---
+
+## 💼 JobRuit
+
+A recruitment platform connecting companies and job seekers.
+
+### Features
 
 - Authentication
 - Company Dashboard
-- Job Posting
+- Job Management
 - CV Builder
 - User Profiles
-- Admin Panel
+- Admin Dashboard
 
-🔗 https://github.com/SamirNexus/JobRuit
+**Tech Stack**
+
+`Angular` `TypeScript`
+
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SamirNexus/JobRuit)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://job-ruit-byc3mmukb-samirnexus-projects.vercel.app)
 
 ---
 
-### 🎬 Movie
+## 🎬 Movie
 
-Movie discovery application built with Angular.
+A movie discovery application powered by Angular and TMDB API.
 
-Features:
+### Features
 
-- Search Movies
+- Trending Movies
+- Search
 - Categories
 - Recommendations
 - Cast Details
-- Responsive Design
 
-🔗 https://github.com/SamirNexus/Movie
+**Tech Stack**
 
----
+`Angular` `TypeScript`
 
-### 🔐 Smart Login
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SamirNexus/Movie)
 
-Authentication system built using:
-
-- HTML
-- CSS
-- Bootstrap
-- JavaScript (ES6)
-- Local Storage
-
-🔗 https://github.com/SamirNexus/Smart-Login
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://movie-qm0xywz3p-samirnexus-projects.vercel.app)
 
 ---
 
-### 🍽️ Yummy
+## 🍽️ Yummy
 
-Recipe explorer application.
+A recipe explorer application with search, filtering, categories, ingredients, and responsive design.
 
-Browse meals by:
+**Tech Stack**
 
-- Category
-- Area
-- Ingredients
+`HTML5` `CSS3` `JavaScript` `Bootstrap`
 
-Includes Search and Contact modules.
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SamirNexus/Yummy)
 
-🔗 https://github.com/SamirNexus/Yummy
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://yummy-2t8eatikn-samirnexus-projects.vercel.app)
+
+---
+
+## 🔐 Smart Login
+
+A secure login system using Local Storage and modern JavaScript.
+
+**Tech Stack**
+
+`HTML5` `CSS3` `Bootstrap` `JavaScript`
+
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SamirNexus/Smart-Login)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://smart-login-9an2ievwb-samirnexus-projects.vercel.app)
+
+---
+
+## 📝 CRUD Operations
+
+A CRUD application demonstrating complete Create, Read, Update, and Delete operations with a clean Angular interface.
+
+**Tech Stack**
+
+`Angular` `TypeScript`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://cru-ds-operations-32sy5y3om-samirnexus-projects.vercel.app)
 
 ---
 
 # 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=SamirNexus&theme=radical&show_icons=true&hide_border=true)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirNexus&layout=compact&theme=radical&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamirNexus&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://streak-stats.demolab.com?user=SamirNexus&theme=radical&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirNexus&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+</p>
 
-# 📈 What I'm Working On
+<p align="center">
 
-- Building Angular Applications
-- Strengthening Data Structures & Algorithms
-- Learning React
-- Improving Software Architecture knowledge
-- Solving programming challenges
+<img src="https://streak-stats.demolab.com?user=SamirNexus&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🤝 Connect with Me
+# 📈 GitHub Activity Graph
 
-💼 LinkedIn
+<p align="center">
 
-https://www.linkedin.com/in/samirnexus98/
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamirNexus&theme=tokyo-night&hide_border=true"/>
 
-📧 Email
-
-msamra990@gmail.com
-
-📂 GitHub
-
-https://github.com/SamirNexus
+</p>
 
 ---
 
-> *"First, solve the problem. Then, write the code."* – John Johnson
+# 🎯 2026 Goals
+
+- ✅ Build production-ready Angular applications
+- ✅ Master Advanced TypeScript
+- ✅ Deepen Software Architecture knowledge
+- ✅ Improve System Design skills
+- ✅ Contribute to Open Source
+- ✅ Solve 500+ programming problems
+- ✅ Land a Software Engineer position
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:msamra990@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/samirnexus98/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SamirNexus">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"First, solve the problem. Then, write the code."* — John Johnson
+
+⭐ **If you find my work interesting, don't forget to star my repositories!**
+
+</div>
